@@ -1,5 +1,6 @@
 const $ = require( "jquery" );
-// Load the full build
+// Loading the full build
+
 const _ = require("lodash");
 import "./body.css";
 
