@@ -1,5 +1,1 @@
-# 0x03. React component
-Front-end
-JavaScript
-ES6
-React
+# 0x04-React_component
